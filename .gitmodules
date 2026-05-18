@@ -1,0 +1,6 @@
+[submodule "lab-bookkeeper-core"]
+	path = lab-bookkeeper-core
+	url = https://github.com/HexDimay/lab-bookkeeper-core
+[submodule "lab-bookkeeper-cli"]
+	path = lab-bookkeeper-cli
+	url = https://github.com/HexDimay/lab-bookkeeper-cli

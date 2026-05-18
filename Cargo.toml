@@ -1,0 +1,2 @@
+[workspace]
+members = ["lab-bookkeeper-cli", "lab-bookkeeper-core"]
